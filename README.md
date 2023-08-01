@@ -68,7 +68,7 @@ const ameer = {
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed_ameer_batcha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerbatchasyed/)   [![Twitter](https://img.shields.io/twitter/follow/ameerbatcha?logo=Twitter&style=for-the-badge)](https://twitter.com/Amigo_uvay) [ ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ameerbatcha)
-	![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+	
 
 
 ***
