@@ -67,13 +67,7 @@ const ameer = {
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect on experience and skill level.
 
 
-<br/>
-<br/>
 
-<a href="https://github.com//github-readme-activity-graph"><img alt="delegent's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ameerbatcha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ***
 
