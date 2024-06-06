@@ -54,7 +54,7 @@ const ameer = {
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a>
     <a href="https://about.gitlab.com/product/continuous-integration/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
     <a href="https://grafana.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> </a>
- <a href="https://appdynamics.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/appd-logo.png"/> </a>
+ <a href="https://appdynamics.com/" target="_blank"> <img src="https://www.appdynamics.com/c/dam/r/appdynamics/headlibs/images/appd-logo-340x0_q100.png"/> </a>
     <a href="https://cloudfabrix.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cloud.png"/> </a>
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
 
