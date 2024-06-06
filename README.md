@@ -27,7 +27,9 @@ const ameer = {
 
 - ⚡  **Always love to extend helping hand**
 
-- 👨‍ **[My Instagram profile](https://www.instagram.com/syed_ameer_batcha/?next=%2F)**
+- 🏆 ‍ **[Certified in](https://www.credly.com/users/ameer-batcha-s)**
+
+- 🎖️ **[Honors and Awards](https://drive.google.com/file/d/1zEvNzTh-bGXIWPm8dgg8dBSDv6BzWRuW/view)**
 
 
 ***
