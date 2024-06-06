@@ -48,7 +48,6 @@ const ameer = {
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>
-    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
