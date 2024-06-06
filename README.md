@@ -17,15 +17,15 @@ const ameer = {
 
 ## 🐱 ABOUT ME
 
-- 🔭 I’m currently Learning **Node.js**
+- 🔭 I’m currently engaged on **Devsecops**
 
-- 🌱 **A Budding Computer Science Engineer** 
+- 🌱 **Devops Engineer | Cloud Solution Architect | Web Developer ** 
 
 - 👨‍💻 Check out **[My Linkedin](https://www.linkedin.com/in/ameer-batcha-s-9b5989215/)**
 
 - 📫 How to reach me **ameerbatcha.cse@gmail.com**
 
-- ⚡ Hobbies **I love to play Badminton**
+- ⚡  **Always love to extend helping hand**
 
 - 👨‍ **[My Instagram profile](https://www.instagram.com/syed_ameer_batcha/?next=%2F)**
 
