@@ -52,9 +52,9 @@ const ameer = {
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a>
     <a href="https://about.gitlab.com/product/continuous-integration/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
-    <a href="https://promethius.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/promethius.png"/> </a>
+   <a href="https://prometheus.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/prometheus.png"/> </a>
     <a href="https://grafana.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> </a>
-    <a href="https://www.appdynamics.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/appdynamics.png"/> </a>
+    <a href="https://www.appdynamics.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/application.png"/> </a>
     <a href="https://cloudfabrix.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cloud.png"/> </a>
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
 
