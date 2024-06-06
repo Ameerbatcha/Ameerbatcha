@@ -17,7 +17,7 @@ const ameer = {
 
 ## 🐱 ABOUT ME
 
-- 🔭 I’m currently engaged on **DevSecOps**
+- 🔭 I’m currently engaged in **DevSecOps**
 
 - 🌱 **Devops Engineer | Cloud Solution Architect | Web Developer** 
 
