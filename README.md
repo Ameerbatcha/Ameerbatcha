@@ -46,6 +46,21 @@ const ameer = {
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"    alt="mongodb" width="48" height="48"/> </a> 
    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express" width="40" height="40"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>
+    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a>
+    <a href="https://about.gitlab.com/product/continuous-integration/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a>
+    <a href="https://prometheus.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/prometheus.png"/> </a>
+    <a href="https://grafana.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> </a>
+    <a href="https://www.appdynamics.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/appdynamics.png"/> </a>
+    <a href="https://cloudfabrix.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cloud.png"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
+    <a href="https://argoproj.github.io/argo-cd/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/argo.png"/> </a>
+    <a href="https://istio.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/istio.png"/> </a>
  
    
 </p>
