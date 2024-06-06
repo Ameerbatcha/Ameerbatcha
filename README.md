@@ -4,7 +4,7 @@
 const ameer = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "C"],
-    askMeAbout: ["web dev", "tech", "NCC"],
+    askMeAbout: ["Devops","multi-cloud","web dev", "tech" ],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
