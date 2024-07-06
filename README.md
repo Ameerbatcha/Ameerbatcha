@@ -3,13 +3,13 @@
 ```javascript
 const ameer = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "C"],
-    askMeAbout: ["Devops","multi-cloud","web dev", "tech" ],
+    code: ["Javascript", "Java", "C","ShellScript"],
+    askMeAbout: ["DevOps","KubeOps","SecOps","multi-cloud-infra","SRE","web dev", "tech" ],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql"],
+        databases: ["mongoDB", "MySql","Aurora","DynamoDB",],
     }
 };
 ```
