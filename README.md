@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋,this is Ameer Batcha here</h1>
+<h1 align="center">Hey 👋,this is Ameer Batcha Syed here</h1>
 
 ```javascript
 const ameer = {
