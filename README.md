@@ -19,7 +19,7 @@ const ameer = {
 
 - 🔭 I’m currently engaged in **DevSecOps**
 
-- 🌱 **Devops Engineer | Cloud Solution Architect | Web Developer** 
+- 🌱 **Devops Engineer | Cloud Solution Architect | FullStack Developer** 
 
 - 👨‍💻 Check out **[My Linkedin](https://www.linkedin.com/in/ameer-batcha-s-9b5989215/)**
 
