@@ -27,7 +27,7 @@ const ameer = {
 
 - ⚡  **Always love to extend helping hand**
 
-- 🏆 ‍ **[Certified in](https://www.credly.com/users/ameer-batcha-s)**
+- 🏆 ‍ **Ofiicially Certified in [Check this link](https://www.credly.com/users/ameer-batcha-s)**
 
 - 🎖️ **[Honors and Awards](https://drive.google.com/file/d/1zEvNzTh-bGXIWPm8dgg8dBSDv6BzWRuW/view)**
 
